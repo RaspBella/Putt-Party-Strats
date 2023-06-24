@@ -6,3 +6,5 @@
 ## [Hole 4](thin-trails/4.md)
 ## [Hole 5](thin-trails/5.md)
 ## [Hole 6](thin-trails/6.md)
+
+# [Back](../README.md)

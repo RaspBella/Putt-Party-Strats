@@ -6,3 +6,5 @@
 ## [Hole 4](funnington/4.md)
 ## [Hole 5](funnington/5.md)
 ## [Hole 6](funnington/6.md)
+
+# [Back](../README.md)
