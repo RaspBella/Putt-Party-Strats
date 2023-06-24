@@ -1,8 +1,8 @@
-# Maxington strategies
+# Mazemoor strategies
 
-## [Hole 1](maxington/1.md)
-## [Hole 2](maxington/2.md)
-## [Hole 3](maxington/3.md)
-## [Hole 4](maxington/4.md)
-## [Hole 5](maxington/5.md)
-## [Hole 6](maxington/6.md)
+## [Hole 1](mazemoor/1.md)
+## [Hole 2](mazemoor/2.md)
+## [Hole 3](mazemoor/3.md)
+## [Hole 4](mazemoor/4.md)
+## [Hole 5](mazemoor/5.md)
+## [Hole 6](mazemoor/6.md)

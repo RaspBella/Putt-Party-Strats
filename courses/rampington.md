@@ -1,8 +1,8 @@
-# Openborough strategies
+# Rampington strategies
 
-## [Hole 1](openborough/1.md)
-## [Hole 2](openborough/2.md)
-## [Hole 3](openborough/3.md)
-## [Hole 4](openborough/4.md)
-## [Hole 5](openborough/5.md)
-## [Hole 6](openborough/6.md)
+## [Hole 1](rampington/1.md)
+## [Hole 2](rampington/2.md)
+## [Hole 3](rampington/3.md)
+## [Hole 4](rampington/4.md)
+## [Hole 5](rampington/5.md)
+## [Hole 6](rampington/6.md)

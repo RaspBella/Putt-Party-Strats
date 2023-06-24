@@ -1,8 +1,8 @@
-# Fortune Falls strategies
+# Funnington strategies
 
-## [Hole 1](fortune-falls/1.md)
-## [Hole 2](fortune-falls/2.md)
-## [Hole 3](fortune-falls/3.md)
-## [Hole 4](fortune-falls/4.md)
-## [Hole 5](fortune-falls/5.md)
-## [Hole 6](fortune-falls/6.md)
+## [Hole 1](funnington/1.md)
+## [Hole 2](funnington/2.md)
+## [Hole 3](funnington/3.md)
+## [Hole 4](funnington/4.md)
+## [Hole 5](funnington/5.md)
+## [Hole 6](funnington/6.md)
