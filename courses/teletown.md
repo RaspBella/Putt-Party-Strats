@@ -1,4 +1,4 @@
-# TeleTown strategies
+# Teletown strategies
 
 ## [Hole 1](teletown/1.md)
 ## [Hole 2](teletown/2.md)
